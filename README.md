@@ -1,6 +1,6 @@
 # iAttend
 
-IATTEND is my Gebze Technical University Graduation project with subject "LOCAL AUTHENTICATION WITH FACE DETECTION"
+* IATTEND is my Gebze Technical University Graduation project with subject "LOCAL AUTHENTICATION WITH FACE DETECTION"
 
 
 <img width="725" alt="image" src="https://github.com/ualper/iAttend/assets/55507463/b8414e24-f886-4cc6-9955-adbc93f09f14">
@@ -134,4 +134,4 @@ This systematic approach aims to redefine conventional attendance tracking mech-
 In summary, the proposed system not only addresses the challenges associated with traditional attendance tracking but also introduces a scalable, accurate, and tech- nologically advanced solution that aligns with the evolving needs of educational envi- ronments.
 
 ## Author
-Umut Ay ALPER  
+* Umut Ay ALPER  
