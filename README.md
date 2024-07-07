@@ -16,7 +16,7 @@ A paramount aspect of the system involves secure user registration, requiring st
 
 This project, structured across various developmental phases, including facial recognition algorithm refinement, location verification optimization, and user interface design, sets ambitious success criteria. These criteria, anchored in measurable bench- marks such as face recognition accuracy and prompt location verification, underscore the project’s commitment to efficiency and reliability. The systematic approach adopted in this endeavor aims to redefine conventional attendance tracking mechanisms, offer- ing an advanced, secure, and user-friendly solution tailored for academic institutions. The comprehensive presentation will delve into the intricacies of the project, covering its architectural scheme, detailed design plan, specific requirements, success criteria, and the sources integral to its realization.
 
-# Keywords: Facial Recognition, Location Verification, Attendance Management
+#### Keywords: Facial Recognition, Location Verification, Attendance Management
 
 
 
