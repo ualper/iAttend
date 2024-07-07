@@ -5,7 +5,7 @@
 
 <img width="725" alt="image" src="https://github.com/ualper/iAttend/assets/55507463/b8414e24-f886-4cc6-9955-adbc93f09f14">
 
-
+<br><br>
 ## ABSTRACT
 This graduation project proposes the implementation of an advanced mobile- based attendance tracking system using Flutter for university lecture halls and class- rooms. The system integrates cutting-edge facial recognition technology and meticu- lous location verification processes to ensure precise attendance management.
 In the proposed system, the instructor initiates the attendance process from their computer, prompting students to capture selfies using their mobile phones. A key distinguishing feature is the autonomous execution of the facial recognition process entirely within the mobile application, thereby minimizing any operational impact on the instructor’s system.
@@ -19,27 +19,27 @@ This project, structured across various developmental phases, including facial r
 #### Keywords: Facial Recognition, Location Verification, Attendance Management
 
 
-
+<br><br>
 ## Project Design Plan
 
 <img width="899" alt="image" src="https://github.com/ualper/iAttend/assets/55507463/8ab52cae-e430-4813-bb73-3ebc8ee22e00">
 
-
+<br><br>
 ## Project Timeline
 
 <img width="870" alt="image" src="https://github.com/ualper/iAttend/assets/55507463/0385f0e6-1586-47d9-9019-ac61cd8a777e">
 
-
+<br><br>
 ## Face Authentication with Google ML Kit
 
 <img width="874" alt="image" src="https://github.com/ualper/iAttend/assets/55507463/843834cf-e849-4f67-941c-76dc1c4ad397">
 
-
+<br><br>
 ## Face Contour Detection
 
 <img width="863" alt="image" src="https://github.com/ualper/iAttend/assets/55507463/6758ade8-cb55-4489-9a34-552cd400a645">
 
-
+<br><br>
 # Location and Time Verification
 
 ## Verify Location
@@ -94,7 +94,7 @@ The `verifyLocationAndTime()` function combines location and time verification.
 
 
 
-
+<br><br>
 ## Database Usage
 
 ### faceFeatures JSON Object
@@ -124,7 +124,7 @@ The `faceFeatures` object demonstrates the accuracy of the facial recognition al
 
 <img width="869" alt="image" src="https://github.com/ualper/iAttend/assets/55507463/3e0f8cf4-048b-4b93-8b04-bd7a48c05b36">
 
-
+<br><br>
 ## CONCLUSION
 In conclusion, the advanced mobile-based attendance tracking system proposed in this graduation project represents a groundbreaking solution for university lecture halls and classrooms. Developed using Flutter, the system integrates cutting-edge facial recognition technology and meticulous location verification processes to redefine attendance management in educational settings.
 The core innovation lies in the autonomous execution of facial recognition en- tirely within the mobile application, minimizing operational impact on the instructor’s system. This not only enhances efficiency but also ensures a seamless user experience. Leveraging Flutter’s capabilities, the mobile application demonstrates a high degree of autonomy, efficiently handling intricate facial recognition tasks.
@@ -132,6 +132,12 @@ The system’s commitment to precision extends to rigorous location verification
 Structured across various developmental phases, including facial recognition al- gorithm refinement, location verification optimization, and user interface design, the project sets ambitious success criteria. These criteria, anchored in measurable bench- marks such as face recognition accuracy and prompt location verification, underscore the project’s commitment to efficiency and reliability.
 This systematic approach aims to redefine conventional attendance tracking mech- anisms, offering an advanced, secure, and user-friendly solution tailored for academic institutions. The comprehensive presentation covers the project’s architectural scheme, detailed design plan, specific requirements, success criteria, and integral sources.
 In summary, the proposed system not only addresses the challenges associated with traditional attendance tracking but also introduces a scalable, accurate, and tech- nologically advanced solution that aligns with the evolving needs of educational envi- ronments.
-
+<br><br>
 ## Author
 * Umut Ay ALPER  
+<br><br>
+<br><br>
+
+
+https://github.com/ualper/iAttend/assets/55507463/96c3a22a-1d26-4e01-9ce1-6095ccb4f8f9
+
