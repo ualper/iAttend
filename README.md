@@ -125,7 +125,13 @@ The `faceFeatures` object demonstrates the accuracy of the facial recognition al
 <img width="869" alt="image" src="https://github.com/ualper/iAttend/assets/55507463/3e0f8cf4-048b-4b93-8b04-bd7a48c05b36">
 
 
-
+## CONCLUSION
+In conclusion, the advanced mobile-based attendance tracking system proposed in this graduation project represents a groundbreaking solution for university lecture halls and classrooms. Developed using Flutter, the system integrates cutting-edge facial recognition technology and meticulous location verification processes to redefine attendance management in educational settings.
+The core innovation lies in the autonomous execution of facial recognition en- tirely within the mobile application, minimizing operational impact on the instructor’s system. This not only enhances efficiency but also ensures a seamless user experience. Leveraging Flutter’s capabilities, the mobile application demonstrates a high degree of autonomy, efficiently handling intricate facial recognition tasks.
+The system’s commitment to precision extends to rigorous location verification, cross-referencing the instructor’s computer location for confirmation of students’ phys- ical presence in the designated lecture hall or classroom. The secure user registration process, requiring students to capture initial selfie photos, establishes a robust founda- tion for personalized verification in subsequent logins.
+Structured across various developmental phases, including facial recognition al- gorithm refinement, location verification optimization, and user interface design, the project sets ambitious success criteria. These criteria, anchored in measurable bench- marks such as face recognition accuracy and prompt location verification, underscore the project’s commitment to efficiency and reliability.
+This systematic approach aims to redefine conventional attendance tracking mech- anisms, offering an advanced, secure, and user-friendly solution tailored for academic institutions. The comprehensive presentation covers the project’s architectural scheme, detailed design plan, specific requirements, success criteria, and integral sources.
+In summary, the proposed system not only addresses the challenges associated with traditional attendance tracking but also introduces a scalable, accurate, and tech- nologically advanced solution that aligns with the evolving needs of educational envi- ronments.
 
 ## Author
 Umut Ay ALPER  
