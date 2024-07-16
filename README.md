@@ -1,6 +1,6 @@
 # iAttend
 
-* IATTEND is my Gebze Technical University Graduation project with subject "LOCAL AUTHENTICATION WITH FACE DETECTION"
+* IATTEND is my Gebze Technical University Graduation project with subject "advanced mobile-based attendance tracking system using Flutter for university lecture halls and classrooms."
 
 
 <img width="725" alt="image" src="https://github.com/ualper/iAttend/assets/55507463/b8414e24-f886-4cc6-9955-adbc93f09f14">
@@ -138,6 +138,46 @@ In summary, the proposed system not only addresses the challenges associated wit
 <br><br>
 <br><br>
 
+
+## Screenshots
+
+### Onboarding
+
+<img width="844" alt="image" src="https://github.com/user-attachments/assets/e4267c65-5113-4865-a4a4-9883dfeef4ed">
+
+### User-Type
+
+<img width="835" alt="image" src="https://github.com/user-attachments/assets/6f989377-c7fb-4f45-96df-6c56b8d27618">
+
+### Login
+
+<img width="303" alt="image" src="https://github.com/user-attachments/assets/c12b8707-8f0d-4319-9e5c-dbded23d30a6">
+
+
+### Create Course
+
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/27347267-100d-42c9-8a82-f936f981d376">
+
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/8045d798-1bba-49be-91df-8ea35585afaf">
+
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/cff79021-0b99-4c49-824a-149af1b02a33">
+
+### Courses
+
+<img width="287" alt="image" src="https://github.com/user-attachments/assets/ce2123bd-3854-4a64-a895-3b0386044a86">
+
+### Course Session
+
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/6df88001-0b2f-48c3-97d7-91d652392b51">
+
+<img width="288" alt="image" src="https://github.com/user-attachments/assets/ee3b8cd1-cc11-41c4-a0d6-b0767ec8c3d1">
+
+
+<br><br>
+
+
+<br><br>
+<br><br>
 
 https://github.com/ualper/iAttend/assets/55507463/96c3a22a-1d26-4e01-9ce1-6095ccb4f8f9
 
